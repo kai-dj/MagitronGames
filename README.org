@@ -1,0 +1,73 @@
+* Magitron Games: A Game Collection for E-Ink Devices
+
+Magitron Games is an Android application designed for eInk devices, aiming to provide a collection of games optimized for low-resource environments.
+The app focuses on minimal color and animation usage, and easy extensibility to accommodate more games in the future.
+
+** Games implemented
+-initially none ^^
+
+** Games in development
+
+*** Minesweeper
+A classic puzzle game where players uncover squares on a grid, avoiding mines while trying to deduce their locations.
+- **Properties:**
+  - Uses basic grid mechanics
+  - Allows variable difficulty levels
+  - Supports flagging mines
+
+** Games planned
+
+*** Hexagonal Minesweeper
+An innovative twist on the classic Minesweeper, played on a hexagonal grid.
+- **Properties:**
+  - Hexagonal grid structure
+  - Unique mine placement strategies
+  - Engaging puzzle mechanics
+
+*** Story Cubes
+A creative game that encourages storytelling using illustrated dice.
+- **Properties:**
+  - No specific winning conditions
+  - Promotes imaginative thinking
+  - Suitable for all ages
+
+*** Pen and Paper Games
+Classic games like 4 in a Row and Battleships, played with simple pencil and paper mechanics.
+- **Properties:**
+  - Easy to learn and play
+  - Multiplayer friendly
+  - Minimal resource usage
+
+*** Yahtzee alike
+A classic dice game involving chance and strategy, where players score points based on the dice rolls.
+- **Properties:**
+  - Fast-paced gameplay
+  - Suitable for groups
+  - Luck and strategy balance
+
+*** Clever4ever alike
+A game similar to Clever4ever that involves strategic dice rolling.
+- **Properties:**
+  - Engaging gameplay
+  - Varying scoring methods
+  - Suitable for casual and competitive play
+
+*** Crossword Puzzles
+Challenging word puzzles where players fill in words based on clues in a grid format.
+- **Properties:**
+  - Varying difficulty levels
+  - Single player gameplay
+  - Can be extended with user-generated content
+
+** Games considered
+*** Chess
+*** Solitaire
+*** Text Adventures
+
+
+
+
+
+
+
+
